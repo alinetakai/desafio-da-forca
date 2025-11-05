@@ -73,7 +73,7 @@ Tentativas restantes: 6
 
 Digite uma letra: a
 Boa! A letra "a" existe na palavra.
-
+```
 ---
 
 ## 🧰 Tecnologias Utilizadas  
